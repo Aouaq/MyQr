@@ -63,7 +63,11 @@ const Qrgenerator = () => {
         </View>
     );
 };
-
+// #e2ff8a
+// #151515
+// #212121
+// #e6cc3b
+// #282828
 export default Qrgenerator;
 
 const styles = StyleSheet.create({
